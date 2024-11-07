@@ -49,6 +49,10 @@ Follow these steps to set up the project:
 - Scoring System: Earn points for each obstacle you dodge, and see your score on the game screen.
 - Collision Detection: Game ends upon collision with an obstacle, with an option to restart.
 - Customizable Graphics: Change the car and obstacle images for a personalized look.
+
+https://github.com/user-attachments/assets/4f21070e-7871-482b-8a23-6538ad750824
+
+
 - Game-Like Font: Custom font added for a more immersive gaming experience.
 
    
